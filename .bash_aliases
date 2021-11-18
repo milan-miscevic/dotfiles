@@ -7,4 +7,5 @@ alias gg="git gui &"
 alias gk="gitk --all &"
 alias gr="git rebase"
 # ll (exists)
+# p (todo)
 alias rmf="sudo rm -rf" # remove force
