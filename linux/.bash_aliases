@@ -9,3 +9,8 @@ alias gr="git rebase"
 # ll (exists)
 alias p="cd ~/projects"
 alias rmf="sudo rm -rf" # remove force
+
+gc() {
+    git checkout -B $1
+    git reset origin/$1 --hard
+}
