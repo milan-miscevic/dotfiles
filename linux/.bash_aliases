@@ -6,6 +6,7 @@ alias gf="git fetch -p && git gc"
 alias gg="git gui &"
 alias gk="gitk --all &"
 alias gr="git rebase"
+# grep (exists)
 # ll (exists)
 alias p="cd ~/projects"
 alias rmf="sudo rm -rf" # remove force
