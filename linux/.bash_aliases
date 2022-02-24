@@ -14,7 +14,7 @@ alias gg="git gui &"
 alias gk="gitk --all &"
 alias gr="git rebase"
 # grep (exists)
-alias gss="git status -s"
+alias gss="git status -s -b"
 alias ld="uniq"
 # ll (exists)
 alias p="cd ~/projects"
