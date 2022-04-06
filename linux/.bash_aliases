@@ -19,3 +19,4 @@ alias ld="uniq"
 # ll (exists)
 alias p="cd ~/projects"
 alias rmf="sudo rm -rf" # remove force
+alias t="make test"
