@@ -1,6 +1,7 @@
 alias c="code ."
 # cat (exists)
 alias cif="composer install --ignore-platform-reqs --no-scripts" # composer install force
+alias cod="composer outdated -D"
 alias d="cd ~/Downloads"
 alias gb="git branch"
 
